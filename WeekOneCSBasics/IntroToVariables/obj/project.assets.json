@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\U88ABJ\\Revature\\Test Folder\\WeekOneCSBasics\\IntroToVariables\\IntroToVariables.csproj",
+      "projectUniqueName": "c:\\Users\\U88ABJ\\Revature\\chantes-revature-repo\\WeekOneCSBasics\\IntroToVariables\\IntroToVariables.csproj",
       "projectName": "IntroToVariables",
-      "projectPath": "C:\\Users\\U88ABJ\\Revature\\Test Folder\\WeekOneCSBasics\\IntroToVariables\\IntroToVariables.csproj",
+      "projectPath": "c:\\Users\\U88ABJ\\Revature\\chantes-revature-repo\\WeekOneCSBasics\\IntroToVariables\\IntroToVariables.csproj",
       "packagesPath": "C:\\Users\\U88ABJ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\U88ABJ\\Revature\\Test Folder\\WeekOneCSBasics\\IntroToVariables\\obj\\",
+      "outputPath": "c:\\Users\\U88ABJ\\Revature\\chantes-revature-repo\\WeekOneCSBasics\\IntroToVariables\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\U88ABJ\\AppData\\Roaming\\NuGet\\NuGet.Config"
