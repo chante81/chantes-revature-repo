@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+/*
 Console.WriteLine("Hello, World!"); 
 
 // Variables - are designed to hold data/information
@@ -126,3 +127,8 @@ bool e = c & d;
 System.Console.WriteLine(e);
 
 System.Console.WriteLine(c & isSunny);
+*/
+decimal x = 42.1M;
+decimal y = 53.5M;
+decimal z = x + y;
+System.Console.WriteLine($"The answer is {z}");

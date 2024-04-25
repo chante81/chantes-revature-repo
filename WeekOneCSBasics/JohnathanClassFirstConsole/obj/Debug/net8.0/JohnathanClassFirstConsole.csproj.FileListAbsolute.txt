@@ -1,0 +1,15 @@
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekOneCSBasics\JohnathanClassFirstConsole\obj\Debug\net8.0\JohnathanClassFirstConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekOneCSBasics\JohnathanClassFirstConsole\obj\Debug\net8.0\JohnathanClassFirstConsole.AssemblyInfoInputs.cache
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekOneCSBasics\JohnathanClassFirstConsole\obj\Debug\net8.0\JohnathanClassFirstConsole.AssemblyInfo.cs
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekOneCSBasics\JohnathanClassFirstConsole\obj\Debug\net8.0\JohnathanClassFirstConsole.csproj.CoreCompileInputs.cache
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekOneCSBasics\JohnathanClassFirstConsole\obj\Debug\net8.0\JohnathanClassFirstConsole.sourcelink.json
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekOneCSBasics\JohnathanClassFirstConsole\bin\Debug\net8.0\JohnathanClassFirstConsole.exe
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekOneCSBasics\JohnathanClassFirstConsole\bin\Debug\net8.0\JohnathanClassFirstConsole.deps.json
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekOneCSBasics\JohnathanClassFirstConsole\bin\Debug\net8.0\JohnathanClassFirstConsole.runtimeconfig.json
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekOneCSBasics\JohnathanClassFirstConsole\bin\Debug\net8.0\JohnathanClassFirstConsole.dll
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekOneCSBasics\JohnathanClassFirstConsole\bin\Debug\net8.0\JohnathanClassFirstConsole.pdb
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekOneCSBasics\JohnathanClassFirstConsole\obj\Debug\net8.0\JohnathanClassFirstConsole.dll
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekOneCSBasics\JohnathanClassFirstConsole\obj\Debug\net8.0\refint\JohnathanClassFirstConsole.dll
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekOneCSBasics\JohnathanClassFirstConsole\obj\Debug\net8.0\JohnathanClassFirstConsole.pdb
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekOneCSBasics\JohnathanClassFirstConsole\obj\Debug\net8.0\JohnathanClassFirstConsole.genruntimeconfig.cache
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekOneCSBasics\JohnathanClassFirstConsole\obj\Debug\net8.0\ref\JohnathanClassFirstConsole.dll

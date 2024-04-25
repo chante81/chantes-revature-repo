@@ -1,0 +1,15 @@
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekOneCSBasics\WeekOneAssignment\bin\Debug\net8.0\WeekOneAssignment.exe
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekOneCSBasics\WeekOneAssignment\bin\Debug\net8.0\WeekOneAssignment.deps.json
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekOneCSBasics\WeekOneAssignment\bin\Debug\net8.0\WeekOneAssignment.runtimeconfig.json
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekOneCSBasics\WeekOneAssignment\bin\Debug\net8.0\WeekOneAssignment.dll
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekOneCSBasics\WeekOneAssignment\bin\Debug\net8.0\WeekOneAssignment.pdb
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekOneCSBasics\WeekOneAssignment\obj\Debug\net8.0\WeekOneAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekOneCSBasics\WeekOneAssignment\obj\Debug\net8.0\WeekOneAssignment.AssemblyInfoInputs.cache
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekOneCSBasics\WeekOneAssignment\obj\Debug\net8.0\WeekOneAssignment.AssemblyInfo.cs
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekOneCSBasics\WeekOneAssignment\obj\Debug\net8.0\WeekOneAssignment.csproj.CoreCompileInputs.cache
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekOneCSBasics\WeekOneAssignment\obj\Debug\net8.0\WeekOneAssignment.sourcelink.json
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekOneCSBasics\WeekOneAssignment\obj\Debug\net8.0\WeekOneAssignment.dll
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekOneCSBasics\WeekOneAssignment\obj\Debug\net8.0\refint\WeekOneAssignment.dll
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekOneCSBasics\WeekOneAssignment\obj\Debug\net8.0\WeekOneAssignment.pdb
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekOneCSBasics\WeekOneAssignment\obj\Debug\net8.0\WeekOneAssignment.genruntimeconfig.cache
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekOneCSBasics\WeekOneAssignment\obj\Debug\net8.0\ref\WeekOneAssignment.dll

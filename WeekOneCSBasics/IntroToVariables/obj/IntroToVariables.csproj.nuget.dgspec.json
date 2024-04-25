@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\U88ABJ\\Revature\\chantes-revature-repo\\WeekOneCSBasics\\IntroToVariables\\IntroToVariables.csproj": {}
+    "C:\\Users\\U88ABJ\\Revature\\chantes-revature-repo\\WeekOneCSBasics\\IntroToVariables\\IntroToVariables.csproj": {}
   },
   "projects": {
-    "c:\\Users\\U88ABJ\\Revature\\chantes-revature-repo\\WeekOneCSBasics\\IntroToVariables\\IntroToVariables.csproj": {
+    "C:\\Users\\U88ABJ\\Revature\\chantes-revature-repo\\WeekOneCSBasics\\IntroToVariables\\IntroToVariables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\U88ABJ\\Revature\\chantes-revature-repo\\WeekOneCSBasics\\IntroToVariables\\IntroToVariables.csproj",
+        "projectUniqueName": "C:\\Users\\U88ABJ\\Revature\\chantes-revature-repo\\WeekOneCSBasics\\IntroToVariables\\IntroToVariables.csproj",
         "projectName": "IntroToVariables",
-        "projectPath": "c:\\Users\\U88ABJ\\Revature\\chantes-revature-repo\\WeekOneCSBasics\\IntroToVariables\\IntroToVariables.csproj",
+        "projectPath": "C:\\Users\\U88ABJ\\Revature\\chantes-revature-repo\\WeekOneCSBasics\\IntroToVariables\\IntroToVariables.csproj",
         "packagesPath": "C:\\Users\\U88ABJ\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\U88ABJ\\Revature\\chantes-revature-repo\\WeekOneCSBasics\\IntroToVariables\\obj\\",
+        "outputPath": "C:\\Users\\U88ABJ\\Revature\\chantes-revature-repo\\WeekOneCSBasics\\IntroToVariables\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\U88ABJ\\AppData\\Roaming\\NuGet\\NuGet.Config"

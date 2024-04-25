@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HelloWorld
-build_property.ProjectDir = c:\Users\U88ABJ\Revature\Test Folder\WeekOneCSBasics\HelloWorld\
+build_property.ProjectDir = c:\Users\U88ABJ\Revature\chantes-revature-repo\WeekOneCSBasics\HelloWorld\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
