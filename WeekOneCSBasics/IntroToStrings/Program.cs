@@ -30,7 +30,7 @@ Strings - a sequence of characters (letters, numbers, symbols, and whitespace) a
             - Reverse
             - TurnOnWipers
             - TurnOnHeadlights
-*/        
+*/
 
 // Create a String variable
 string word = "Hello";
@@ -49,7 +49,7 @@ System.Console.WriteLine(word.ToUpper()); // ToUpper is a method - must add set 
 
 System.Console.WriteLine(word.ToLower());
 System.Console.WriteLine(word.Substring(3));
-System.Console.WriteLine(word.Substring(3,8));
+System.Console.WriteLine(word.Substring(3, 8));
 //System.Console.WriteLine(word.Substring(3,15)); // Will return error since length used is out of range (longer than the string)
 //Unhandled exception. System.ArgumentOutOfRangeException: Index and length must refer to a location within the string. (Parameter 'length')
 //   at System.String.ThrowSubstringArgumentOutOfRange(Int32 startIndex, Int32 length)
@@ -101,8 +101,8 @@ System.Console.WriteLine(num1 == num3);
 
 
 // reference-types -> Objects -> == this will check if they are the same object in memory. (by location, not value)
-Object obj1 = new ();
-Object obj2 = new ();
+Object obj1 = new();
+Object obj2 = new();
 
 System.Console.WriteLine(obj1 == obj2);
 
@@ -113,3 +113,37 @@ string word1 = "Hello";
 string word2 = "Hello";
 System.Console.WriteLine(word1 == word2);
 
+foreach (var letter in word1)
+{
+    System.Console.WriteLine(letter);
+}
+
+string practice = "Happy";
+
+// string reverse = "";
+
+//     foreach (char letter in practice)
+//     {
+//         reverse = letter + reverse;
+//     }
+
+// System.Console.WriteLine(reverse);
+
+System.Console.WriteLine(practice.Length);
+System.Console.WriteLine(practice.Substring(4));
+
+//string reverse2 = "";
+for (int i = practice.Length -1; i >= 0; i--)
+{
+    System.Console.Write(practice[i]);
+    //reverse2 += practice[i];
+}
+
+
+/*
+round 1 - i=4, substring 4 = y i=4-1
+round 2 - i=3, substring 3 = p i=4-1
+round 3 - i=2, substring 2 = p i=4-1
+round 4 - i=1, substring 1 = a i=4-1
+round 5 - i=0, substring 0 = h i=4-1
+*/

@@ -225,3 +225,26 @@ foreach (char c in word)
 {
     System.Console.WriteLine(c);
 }
+
+int[] numberArray = new int[10];
+numberArray[0]=58;
+numberArray[1]=25;
+numberArray[2]=9;
+numberArray[3]=13;
+numberArray[4]=27;
+numberArray[5]=102;
+numberArray[6]=59;
+numberArray[7]=73;
+numberArray[8]=67;
+numberArray[9]=39;
+
+int max = 0;
+
+foreach (int number in numberArray)
+{
+    if (number > max)
+    {
+        max = number;
+    }
+}
+System.Console.WriteLine(max);

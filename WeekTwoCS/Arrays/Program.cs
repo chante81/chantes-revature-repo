@@ -18,6 +18,8 @@ Arrays use indexes (just like strings) -> An Array of size 5 - Indexes: 0-4
 // new - allocating new memory for said object
 // name of data type [] indicates array
 
+using System.ComponentModel.DataAnnotations;
+
 int[] numbers = new int[5]; // Create an Array that can hold 5 ints.
 System.Console.WriteLine(numbers.Length);
 
@@ -72,3 +74,19 @@ words[1] = "Bye";
 System.Console.WriteLine(words[1]); 
 //Cannot add to arrays - fixed based on what was provided at time of instantiating Array
 // words[4] = "Goodbye"; // Unhandled exception. System.IndexOutOfRangeException: Index was outside the bounds of the array.
+
+int[] numberArray = new int[10];
+numberArray[0]=58;
+numberArray[1]=25;
+numberArray[2]=9;
+numberArray[3]=13;
+numberArray[4]=27;
+numberArray[5]=102;
+numberArray[6]=59;
+numberArray[7]=73;
+numberArray[8]=67;
+numberArray[9]=39;
+
+
+
+

@@ -1,0 +1,15 @@
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekTwoCS\ChanteClasses\obj\Debug\net8.0\ChanteClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekTwoCS\ChanteClasses\obj\Debug\net8.0\ChanteClasses.AssemblyInfoInputs.cache
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekTwoCS\ChanteClasses\obj\Debug\net8.0\ChanteClasses.AssemblyInfo.cs
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekTwoCS\ChanteClasses\obj\Debug\net8.0\ChanteClasses.csproj.CoreCompileInputs.cache
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekTwoCS\ChanteClasses\obj\Debug\net8.0\ChanteClasses.sourcelink.json
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekTwoCS\ChanteClasses\bin\Debug\net8.0\ChanteClasses.exe
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekTwoCS\ChanteClasses\bin\Debug\net8.0\ChanteClasses.deps.json
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekTwoCS\ChanteClasses\bin\Debug\net8.0\ChanteClasses.runtimeconfig.json
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekTwoCS\ChanteClasses\bin\Debug\net8.0\ChanteClasses.dll
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekTwoCS\ChanteClasses\bin\Debug\net8.0\ChanteClasses.pdb
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekTwoCS\ChanteClasses\obj\Debug\net8.0\ChanteClasses.dll
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekTwoCS\ChanteClasses\obj\Debug\net8.0\refint\ChanteClasses.dll
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekTwoCS\ChanteClasses\obj\Debug\net8.0\ChanteClasses.pdb
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekTwoCS\ChanteClasses\obj\Debug\net8.0\ChanteClasses.genruntimeconfig.cache
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekTwoCS\ChanteClasses\obj\Debug\net8.0\ref\ChanteClasses.dll
