@@ -1,0 +1,15 @@
+C:\Users\U88ABJ\Revature\chantes-revature-repo\FreestyleFolder\bin\Debug\net8.0\FreestyleFolder.exe
+C:\Users\U88ABJ\Revature\chantes-revature-repo\FreestyleFolder\bin\Debug\net8.0\FreestyleFolder.deps.json
+C:\Users\U88ABJ\Revature\chantes-revature-repo\FreestyleFolder\bin\Debug\net8.0\FreestyleFolder.runtimeconfig.json
+C:\Users\U88ABJ\Revature\chantes-revature-repo\FreestyleFolder\bin\Debug\net8.0\FreestyleFolder.dll
+C:\Users\U88ABJ\Revature\chantes-revature-repo\FreestyleFolder\bin\Debug\net8.0\FreestyleFolder.pdb
+C:\Users\U88ABJ\Revature\chantes-revature-repo\FreestyleFolder\obj\Debug\net8.0\FreestyleFolder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\U88ABJ\Revature\chantes-revature-repo\FreestyleFolder\obj\Debug\net8.0\FreestyleFolder.AssemblyInfoInputs.cache
+C:\Users\U88ABJ\Revature\chantes-revature-repo\FreestyleFolder\obj\Debug\net8.0\FreestyleFolder.AssemblyInfo.cs
+C:\Users\U88ABJ\Revature\chantes-revature-repo\FreestyleFolder\obj\Debug\net8.0\FreestyleFolder.csproj.CoreCompileInputs.cache
+C:\Users\U88ABJ\Revature\chantes-revature-repo\FreestyleFolder\obj\Debug\net8.0\FreestyleFolder.sourcelink.json
+C:\Users\U88ABJ\Revature\chantes-revature-repo\FreestyleFolder\obj\Debug\net8.0\FreestyleFolder.dll
+C:\Users\U88ABJ\Revature\chantes-revature-repo\FreestyleFolder\obj\Debug\net8.0\refint\FreestyleFolder.dll
+C:\Users\U88ABJ\Revature\chantes-revature-repo\FreestyleFolder\obj\Debug\net8.0\FreestyleFolder.pdb
+C:\Users\U88ABJ\Revature\chantes-revature-repo\FreestyleFolder\obj\Debug\net8.0\FreestyleFolder.genruntimeconfig.cache
+C:\Users\U88ABJ\Revature\chantes-revature-repo\FreestyleFolder\obj\Debug\net8.0\ref\FreestyleFolder.dll

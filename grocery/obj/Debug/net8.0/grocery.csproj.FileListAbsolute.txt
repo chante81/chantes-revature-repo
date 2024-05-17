@@ -1,0 +1,15 @@
+C:\Users\U88ABJ\Revature\chantes-revature-repo\grocery\bin\Debug\net8.0\grocery.exe
+C:\Users\U88ABJ\Revature\chantes-revature-repo\grocery\bin\Debug\net8.0\grocery.deps.json
+C:\Users\U88ABJ\Revature\chantes-revature-repo\grocery\bin\Debug\net8.0\grocery.runtimeconfig.json
+C:\Users\U88ABJ\Revature\chantes-revature-repo\grocery\bin\Debug\net8.0\grocery.dll
+C:\Users\U88ABJ\Revature\chantes-revature-repo\grocery\bin\Debug\net8.0\grocery.pdb
+C:\Users\U88ABJ\Revature\chantes-revature-repo\grocery\obj\Debug\net8.0\grocery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\U88ABJ\Revature\chantes-revature-repo\grocery\obj\Debug\net8.0\grocery.AssemblyInfoInputs.cache
+C:\Users\U88ABJ\Revature\chantes-revature-repo\grocery\obj\Debug\net8.0\grocery.AssemblyInfo.cs
+C:\Users\U88ABJ\Revature\chantes-revature-repo\grocery\obj\Debug\net8.0\grocery.csproj.CoreCompileInputs.cache
+C:\Users\U88ABJ\Revature\chantes-revature-repo\grocery\obj\Debug\net8.0\grocery.sourcelink.json
+C:\Users\U88ABJ\Revature\chantes-revature-repo\grocery\obj\Debug\net8.0\grocery.dll
+C:\Users\U88ABJ\Revature\chantes-revature-repo\grocery\obj\Debug\net8.0\refint\grocery.dll
+C:\Users\U88ABJ\Revature\chantes-revature-repo\grocery\obj\Debug\net8.0\grocery.pdb
+C:\Users\U88ABJ\Revature\chantes-revature-repo\grocery\obj\Debug\net8.0\grocery.genruntimeconfig.cache
+C:\Users\U88ABJ\Revature\chantes-revature-repo\grocery\obj\Debug\net8.0\ref\grocery.dll

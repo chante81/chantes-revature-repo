@@ -1,0 +1,15 @@
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekThreeCS\AssessmentReview\obj\Debug\net8.0\AssessmentReview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekThreeCS\AssessmentReview\obj\Debug\net8.0\AssessmentReview.AssemblyInfoInputs.cache
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekThreeCS\AssessmentReview\obj\Debug\net8.0\AssessmentReview.AssemblyInfo.cs
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekThreeCS\AssessmentReview\obj\Debug\net8.0\AssessmentReview.csproj.CoreCompileInputs.cache
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekThreeCS\AssessmentReview\obj\Debug\net8.0\AssessmentReview.sourcelink.json
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekThreeCS\AssessmentReview\bin\Debug\net8.0\AssessmentReview.exe
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekThreeCS\AssessmentReview\bin\Debug\net8.0\AssessmentReview.deps.json
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekThreeCS\AssessmentReview\bin\Debug\net8.0\AssessmentReview.runtimeconfig.json
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekThreeCS\AssessmentReview\bin\Debug\net8.0\AssessmentReview.dll
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekThreeCS\AssessmentReview\bin\Debug\net8.0\AssessmentReview.pdb
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekThreeCS\AssessmentReview\obj\Debug\net8.0\AssessmentReview.dll
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekThreeCS\AssessmentReview\obj\Debug\net8.0\refint\AssessmentReview.dll
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekThreeCS\AssessmentReview\obj\Debug\net8.0\AssessmentReview.pdb
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekThreeCS\AssessmentReview\obj\Debug\net8.0\AssessmentReview.genruntimeconfig.cache
+C:\Users\U88ABJ\Revature\chantes-revature-repo\WeekThreeCS\AssessmentReview\obj\Debug\net8.0\ref\AssessmentReview.dll
