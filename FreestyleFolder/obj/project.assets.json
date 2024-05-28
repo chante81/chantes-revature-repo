@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\U88ABJ\\Revature\\chantes-revature-repo\\FreestyleFolder\\FreestyleFolder.csproj",
+      "projectUniqueName": "c:\\Users\\U88ABJ\\Revature\\chantes-revature-repo\\FreestyleFolder\\FreestyleFolder.csproj",
       "projectName": "FreestyleFolder",
-      "projectPath": "C:\\Users\\U88ABJ\\Revature\\chantes-revature-repo\\FreestyleFolder\\FreestyleFolder.csproj",
+      "projectPath": "c:\\Users\\U88ABJ\\Revature\\chantes-revature-repo\\FreestyleFolder\\FreestyleFolder.csproj",
       "packagesPath": "C:\\Users\\U88ABJ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\U88ABJ\\Revature\\chantes-revature-repo\\FreestyleFolder\\obj\\",
+      "outputPath": "c:\\Users\\U88ABJ\\Revature\\chantes-revature-repo\\FreestyleFolder\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\U88ABJ\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

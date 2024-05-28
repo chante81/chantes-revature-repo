@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\U88ABJ\\Revature\\chantes-revature-repo\\Week5-Databases\\MovieApp\\MovieApp.csproj": {}
+    "c:\\Users\\U88ABJ\\Revature\\chantes-revature-repo\\Week5-Databases\\MovieApp\\MovieApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\U88ABJ\\Revature\\chantes-revature-repo\\Week5-Databases\\MovieApp\\MovieApp.csproj": {
+    "c:\\Users\\U88ABJ\\Revature\\chantes-revature-repo\\Week5-Databases\\MovieApp\\MovieApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\U88ABJ\\Revature\\chantes-revature-repo\\Week5-Databases\\MovieApp\\MovieApp.csproj",
+        "projectUniqueName": "c:\\Users\\U88ABJ\\Revature\\chantes-revature-repo\\Week5-Databases\\MovieApp\\MovieApp.csproj",
         "projectName": "MovieApp",
-        "projectPath": "C:\\Users\\U88ABJ\\Revature\\chantes-revature-repo\\Week5-Databases\\MovieApp\\MovieApp.csproj",
+        "projectPath": "c:\\Users\\U88ABJ\\Revature\\chantes-revature-repo\\Week5-Databases\\MovieApp\\MovieApp.csproj",
         "packagesPath": "C:\\Users\\U88ABJ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\U88ABJ\\Revature\\chantes-revature-repo\\Week5-Databases\\MovieApp\\obj\\",
+        "outputPath": "c:\\Users\\U88ABJ\\Revature\\chantes-revature-repo\\Week5-Databases\\MovieApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\U88ABJ\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -42,6 +42,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Net.Code.ADONet": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -58,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

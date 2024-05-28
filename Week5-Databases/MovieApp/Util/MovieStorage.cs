@@ -1,30 +1,30 @@
 class MovieStorage
 {
     /*
-        This entire setup is temporary. We do not know how to work or communicate with databases yet.
+    This Entire Setup iS TEMPORARY!
+    We don't know how to work with Databases yet 
+    - by extension - communicate with them
 
-        So, we are going to build some devices for storing Movies. 
-        Everything is lost each time app shuts down (no persistent storage yet).
+    SO we are going to build some devices for Storing Movies.
+    BUT everything is sadly lost everytime the application shuts down.
+    */
 
-        Need a collection to work with for easy management. 
-    */ 
+    public Dictionary<int, Movie> movies;
+    public int idCounter = 1;
 
-    public Dictionary<int, Movie> movieInventory;
-    public int idCounter = 101;
-
+    //Making this constructor give us some pre-loaded Movies to work with.
     public MovieStorage()
     {
-        Movie movie1 = new(idCounter++, "Iron Man", 19.99, true, 0);
-        Movie movie2 = new(idCounter++, "Spider Man", 24.99, true, 0);
-        Movie movie3 = new(idCounter++, "The Avengers", 19.99, true, 0);
+        Movie movie1 = new(idCounter, "Iron Man", 5, true, 0, null); idCounter++;
+        Movie movie2 = new(idCounter, "The Avengers", 6, true, 0, null); idCounter++;
+        Movie movie3 = new(idCounter, "Ant-Man", 4, true, 0, null); idCounter++;
 
-        movieInventory = []; //Sets dictionary to empty collection.
-
-        movieInventory.Add(movie1.Id, movie1);
-        movieInventory.Add(movie2.Id, movie2);
-        movieInventory.Add(movie3.Id, movie3);
-
+        movies = []; //Sets the Dictionary to an empty collection.
+        movies.Add(movie1.Id, movie1);
+        movies.Add(movie2.Id, movie2);
+        movies.Add(movie3.Id, movie3);
     }
+
 
 
 }
