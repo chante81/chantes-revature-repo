@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        
+
         // string reverseWord = "";
         // bool isPalindrome;
 
@@ -49,11 +49,49 @@ class Program
 
         // }
         // System.Console.WriteLine(code);
-        string word = "madam";
-        createSecretCode(word);
+        // string word = "madam";
+        // createSecretCode(word);
 
-        string code = createSecretCode(word);
-        System.Console.WriteLine(code);
+        // string code = createSecretCode(word);
+        // System.Console.WriteLine(code);
+
+        // string[] stringArray;
+        // stringArray = ["one", "two", "three", "four", "eight"];
+
+        // string[] otherArray;
+        // otherArray = ["one", "two", "three", "four", "five"];
+        // string string1 = "";
+        // string string2 = "";
+
+        // foreach (var word in stringArray)
+        // {
+        //     string1 = string1 + word;
+        // }
+        // foreach (var word in otherArray)
+        // {
+        //     string2 = string2 + word;
+        // }
+        // if (string1 == string2)
+        // {
+        //     Console.WriteLine(true);
+        // }
+        // else System.Console.WriteLine(false);
+
+
+        int[] intArray;
+        intArray = [5, 8, 7, 23, 2, 3, 22, 35, 25, 21];
+        int K = 20;
+
+        K = K + 1;
+        for (int i = 0; i < intArray.Length; i++)
+        {
+            if (intArray[i] == K)
+            {
+                K = K + 1;
+            }
+        }
+        System.Console.WriteLine(K);
+
 
     }
 
@@ -116,8 +154,8 @@ class Program
     //     }
     //     return code;  
     // }
-    
-    
+
+
     public static string createSecretCode(string s)
     {
 

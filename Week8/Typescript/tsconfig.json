@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        // this specifies the output level
+        // EcmaScript6 (another word for JavaScript) can change version here if needed 
+        "target": "ES6",
+        // specifying the module code generation method
+        "module": "commonjs",
+        // directory for compiled output
+        "outDir": "./dist",
+        "strict": true
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\U88ABJ\\Revature\\chantes-revature-repo\\FreestyleFolder\\FreestyleFolder.csproj": {}
+    "C:\\Users\\U88ABJ\\Revature\\chantes-revature-repo\\FreestyleFolder\\FreestyleFolder.csproj": {}
   },
   "projects": {
-    "c:\\Users\\U88ABJ\\Revature\\chantes-revature-repo\\FreestyleFolder\\FreestyleFolder.csproj": {
+    "C:\\Users\\U88ABJ\\Revature\\chantes-revature-repo\\FreestyleFolder\\FreestyleFolder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\U88ABJ\\Revature\\chantes-revature-repo\\FreestyleFolder\\FreestyleFolder.csproj",
+        "projectUniqueName": "C:\\Users\\U88ABJ\\Revature\\chantes-revature-repo\\FreestyleFolder\\FreestyleFolder.csproj",
         "projectName": "FreestyleFolder",
-        "projectPath": "c:\\Users\\U88ABJ\\Revature\\chantes-revature-repo\\FreestyleFolder\\FreestyleFolder.csproj",
+        "projectPath": "C:\\Users\\U88ABJ\\Revature\\chantes-revature-repo\\FreestyleFolder\\FreestyleFolder.csproj",
         "packagesPath": "C:\\Users\\U88ABJ\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\U88ABJ\\Revature\\chantes-revature-repo\\FreestyleFolder\\obj\\",
+        "outputPath": "C:\\Users\\U88ABJ\\Revature\\chantes-revature-repo\\FreestyleFolder\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\U88ABJ\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

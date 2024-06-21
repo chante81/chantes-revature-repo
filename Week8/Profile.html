@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<!-- This is a comment in html -->
+<html>
+
+    <head>
+        <title>My Profile</title>
+        <style>
+            p {
+                font-size: xx-large;
+                font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                font-weight: bolder;
+            }
+
+            .intro {
+                color:cadetblue;
+                font-size: 60px;
+
+            }
+        </style>
+        <link rel="stylesheet" type="text/css" href="Styles.css">
+    </head>
+
+    <body>
+        <h1 id="Title">Welcome to My Profile</h1>
+        <p class="intro" style="color:rgb(137, 43, 226);background-color: aquamarine; font-size: 20px;">Hello! My name is Chante! </p>
+        <p class="intro">Hello again! </p>
+        <span>Hello I am an inline element</span>
+        <span>Hello I am an inline element</span>
+        <span>Hello I am an inline element</span>
+        <h2>Chante O</h2>
+        <p>Hello, my name is Chante and I work at GEICO</p>
+        <a href="https://google.com">Visit my website https://google.com</a>
+        <br>
+        <br>
+        <br>
+        <img src="https://images.ctfassets.net/i3tkg7dt3kro/5vWnLEz6xgTGSRCgU5R3Jg/b5a1b5326db15a88794fa969bd5e7e37/hi.jpg">
+        <br>
+        <br>
+        <br>
+        <table>
+            <tr>
+                <th>Company</th>
+                <th>Contact</th>
+                <th>Country</th>
+            </tr>
+            <tr>
+                <td>Alfreds Futterkiste</td>
+                <td>Maria Anders</td>
+                <td>Germany</td>
+            </tr>
+            <tr>
+                <td>Centro comercial Moctezuma</td>
+                <td>Francisco Chang</td>
+                <td>Mexico</td>
+            </tr>
+        </table>
+        <form>
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name">
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email">
+
+            <input type="submit" value="Submit">
+            <input type="reset" value="Reset">
+            <input type="button" value="This is a button">
+        </form>
+
+        <form action="http://localhost:4343/hobbies"
+        method="post">
+
+            <select id="hobbies" name="hobbies" >
+                <option value="coding">Coding</option>
+                <option value="reading">Reading</option>
+                <option value="gaming">Gaming</option>
+                <option value="travel">Travel</option>
+                <option value="cooking">Cooking</option>
+            </select>
+
+            <select id="hobbies" name="hobbies" multiple>
+                <option value="coding">Coding</option>
+                <option value="reading">Reading</option>
+                <option value="gaming">Gaming</option>
+                <option value="travel">Travel</option>
+                <option value="cooking">Cooking</option>
+            </select>
+
+        </form>
+
+    </body>
+
+
+</html>

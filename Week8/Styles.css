@@ -1,0 +1,36 @@
+body {
+    background-color:floralwhite;
+    color:rgba(119, 90, 215, 0.664);
+}
+
+.intro {
+    font-stretch: extra-expanded;
+}
+
+#Title {
+    font-size: 100px;
+    text-align: center;
+}
+
+a:hover {
+    font-size: large;
+}
+
+a:visited {
+    color:rgb(93, 30, 30)
+}
+
+#Title {
+    border-color:rgba(95, 158, 160, 0.641);
+    border-style:double;
+    border-width: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding: 20px 20px 20px 20px
+}
+
+/* @media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  } */

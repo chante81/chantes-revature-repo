@@ -1,0 +1,6 @@
+body {
+    div#displaycontainer {
+        width: 500%;
+        height: 500%;
+    }
+}
